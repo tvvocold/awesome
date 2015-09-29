@@ -278,6 +278,7 @@ If you want to create your own list, please read the [create list instructions](
 - [Continuous Delivery](https://github.com/itech001/ciandcd)
 - [Services Engineering](https://github.com/mmcgrana/services-engineering)
 - [Free for Developers](https://github.com/ripienaar/free-for-dev)
+- [free-for-dev-zh](https://github.com/qinghuaiorg/free-for-dev-zh)
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin/)
 - [Answers](https://github.com/jugoncalves/awesome-answers) *(Stack Overflow, Quora, etc)*
 - [Sketch](https://github.com/diessica/awesome-sketch) *(OS X app)*
